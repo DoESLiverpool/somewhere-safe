@@ -16,7 +16,7 @@ We are a co-working space located in the heart of Liverpool. Desks are available
 
 ### DoES Liverpool is a company
 
-* We are a Community Interest Company. This means that any profit we make is fed back to help the community – making the space bigger, or buying more useful bits of kit.
+We are a Community Interest Company. This means that any profit we make is fed back to help the community – making the space bigger, or buying more useful bits of kit.
 
 ### What do we aspire to be?
 
