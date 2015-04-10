@@ -34,6 +34,8 @@ We are a Community Interest Company. This means that any profit we make is fed b
 We will be helping launch the Hannah Directory 2015 at our regular MakerNight event on Wednesday 10th June 2015 at 6pm.
 It's a chance to learn and meet the diverse DoESLiverpool community and distribute the Hannah Directory!
 
+### Where Are We?
+
 DoESLiverpool
 Gostins Building,
 4th Floor.
