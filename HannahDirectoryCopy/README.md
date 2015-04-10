@@ -30,6 +30,10 @@ We are a Community Interest Company. This means that any profit we make is fed b
 * We want to support the growth of the region in a meaningful way – by doing rather than talking about it.
 * Most of all we want you to be a part of our community and help us grow. If you would like to get involved please get in touch! hello@doesliverpool.com
 
+### What Are We Doing For the Hannah Directory Launch?
+We will be helping launch the Hannah Directory 2015 at our regular MakerNight event on Wednesday 10th June 2015 at 6pm.
+It's a chance to learn and meet the diverse DoESLiverpool community and distribute the Hannah Directory!
+
 DoESLiverpool
 Gostins Building,
 4th Floor.
