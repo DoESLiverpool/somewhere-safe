@@ -1,6 +1,8 @@
 ![doesimage](https://cloud.githubusercontent.com/assets/128456/7093736/b03c9414-dfb3-11e4-9d1c-a9d4e5b18f23.jpg)
 
 [Image Source](https://www.flickr.com/photos/amcewen/16110088224/ "Link to Flickr Image")
+## Copy For Hannah Directory:
+
 ## What is DoESLiverpool?
 
 ### DoES Liverpool is a community
