@@ -10,12 +10,11 @@
 * A workshop with 3Dprinters & lasercutters.
 * A place where you do your best work, to support the growth of the region in a meaningful way – by doing.
 * A friendly environment fostering collaboration.
-* Get in touch! hello@doesliverpool.com
+* Get involved!
 * http://doesliverpool.com/get-involved/
 
 ### What Are We Doing For the Hannah Directory Launch?
 Celebrate MakerNight Wednesday 10th June 2015 at 6pm. Learn from and meet the DoESLiverpool community!
 ### Where Are We?
-DoESLiverpool Gostins Building, 4th Floor. 32-36 Hanover Street. Liverpool L1 4LN. http://doesliverpool.com hello@doesliverpool.com @DoESLiverpool
-hello@doesliverpool.com
+DoESLiverpool Gostins Building, 4th Floor. 32-36 Hanover Street. Liverpool L1 4LN. http://doesliverpool.com hello@doesliverpool.com
 [@DoESLiverpool](http://twitter.com/DoESLiverpool)
