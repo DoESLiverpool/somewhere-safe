@@ -14,7 +14,7 @@
 * http://doesliverpool.com/get-involved/
 
 ### What Are We Doing For the Hannah Directory Launch?
-Celebrate MakerNight Wednesday 10th June 2015 at 6pm. Learn from and meet the DoESLiverpool community!
+Celebration at MakerNight Wednesday 10th June 2015 6pm. Learn from and meet the DoESLiverpool community!
 ### Where Are We?
 DoESLiverpool Gostins Building, 4th Floor. 32-36 Hanover Street. Liverpool L1 4LN. http://doesliverpool.com hello@doesliverpool.com
 [@DoESLiverpool](http://twitter.com/DoESLiverpool)
