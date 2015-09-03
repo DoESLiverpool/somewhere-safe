@@ -97,20 +97,20 @@
       <isoGCodeFileOutputExtension>_ISOLATION_GCODE.ngc</isoGCodeFileOutputExtension>
       <isoPadTouchDownZLevel>-0.127</isoPadTouchDownZLevel>
       <isoPadTouchDownsWanted>true</isoPadTouchDownsWanted>
-      <isoXYFeedRate>38</isoXYFeedRate>
-      <isoZClearLevel>6.35</isoZClearLevel>
+      <isoXYFeedRate>76</isoXYFeedRate>
+      <isoZClearLevel>3.35</isoZClearLevel>
       <isoZCutLevel>-0.150000334</isoZCutLevel>
-      <isoZFeedRate>50</isoZFeedRate>
+      <isoZFeedRate>100</isoZFeedRate>
       <isoZMoveLevel>2.54</isoZMoveLevel>
       <operationMode>IsolationCut</operationMode>
       <referencePinGCodeEnabled>true</referencePinGCodeEnabled>
       <referencePinPadDiameter>3.175</referencePinPadDiameter>
       <referencePinsGCodeFileOutputExtension>_REFPINS_GCODE.ngc</referencePinsGCodeFileOutputExtension>
       <referencePinsMaxNumber>6</referencePinsMaxNumber>
-      <referencePinsXYFeedRate>50</referencePinsXYFeedRate>
-      <referencePinsZClearLevel>6.35</referencePinsZClearLevel>
+      <referencePinsXYFeedRate>100</referencePinsXYFeedRate>
+      <referencePinsZClearLevel>3.35</referencePinsZClearLevel>
       <referencePinsZDrillDepth>-7.62000036</referencePinsZDrillDepth>
-      <referencePinsZFeedRate>50</referencePinsZFeedRate>
+      <referencePinsZFeedRate>100</referencePinsZFeedRate>
       <showGCodeLineNumbers>false</showGCodeLineNumbers>
       <warnAboutOverwriting>true</warnAboutOverwriting>
       <zEdgeMillMoveLevel>2.54</zEdgeMillMoveLevel>
@@ -125,10 +125,10 @@
       <bedFlatteningSizeMode>Add_Margin_To_Border</bedFlatteningSizeMode>
       <bedFlatteningSizeX>90</bedFlatteningSizeX>
       <bedFlatteningSizeY>83</bedFlatteningSizeY>
-      <bedFlatteningXYFeedRate>76</bedFlatteningXYFeedRate>
-      <bedFlatteningZClearLevel>6.35</bedFlatteningZClearLevel>
+      <bedFlatteningXYFeedRate>100</bedFlatteningXYFeedRate>
+      <bedFlatteningZClearLevel>3.35</bedFlatteningZClearLevel>
       <bedFlatteningZCutLevel>-0.635</bedFlatteningZCutLevel>
-      <bedFlatteningZFeedRate>50</bedFlatteningZFeedRate>
+      <bedFlatteningZFeedRate>100</bedFlatteningZFeedRate>
       <description>KiCad Board Outline</description>
       <drillingDrillingCoordinateZerosMode>FixedDecimalPoint</drillingDrillingCoordinateZerosMode>
       <drillingGCodeEnabled>true</drillingGCodeEnabled>
@@ -143,7 +143,7 @@
       <edgeMillNumTabs>4</edgeMillNumTabs>
       <edgeMillTabWidth>3.175</edgeMillTabWidth>
       <edgeMillXYFeedRate>27</edgeMillXYFeedRate>
-      <edgeMillZClearLevel>6.35</edgeMillZClearLevel>
+      <edgeMillZClearLevel>3.35</edgeMillZClearLevel>
       <edgeMillZCutLevel>-3.08</edgeMillZCutLevel>
       <edgeMillZFeedRate>25</edgeMillZFeedRate>
       <edgeMillingGCodeEnabled>true</edgeMillingGCodeEnabled>
@@ -191,10 +191,10 @@
       <drillingGCodeEnabled>true</drillingGCodeEnabled>
       <drillingGCodeFileOutputExtension>_DRILL_GCODE.ngc</drillingGCodeFileOutputExtension>
       <drillingNumberOfDecimalPlaces>3</drillingNumberOfDecimalPlaces>
-      <drillingXYFeedRate>76</drillingXYFeedRate>
-      <drillingZClearLevel>6.35</drillingZClearLevel>
+      <drillingXYFeedRate>120</drillingXYFeedRate>
+      <drillingZClearLevel>3.35</drillingZClearLevel>
       <drillingZDepth>-3.08</drillingZDepth>
-      <drillingZFeedRate>50</drillingZFeedRate>
+      <drillingZFeedRate>100</drillingZFeedRate>
       <edgeMillCutWidth>3.175</edgeMillCutWidth>
       <edgeMillGCodeFileOutputExtension>_EDGEMILL_GCODE.ngc</edgeMillGCodeFileOutputExtension>
       <edgeMillNumTabs>4</edgeMillNumTabs>
@@ -268,20 +268,20 @@
       <isoGCodeFileOutputExtension>_ISOLATION_GCODE.ngc</isoGCodeFileOutputExtension>
       <isoPadTouchDownZLevel>-0.127</isoPadTouchDownZLevel>
       <isoPadTouchDownsWanted>true</isoPadTouchDownsWanted>
-      <isoXYFeedRate>38</isoXYFeedRate>
-      <isoZClearLevel>6.35</isoZClearLevel>
+      <isoXYFeedRate>76</isoXYFeedRate>
+      <isoZClearLevel>3.35</isoZClearLevel>
       <isoZCutLevel>-0.1508</isoZCutLevel>
-      <isoZFeedRate>50</isoZFeedRate>
+      <isoZFeedRate>100</isoZFeedRate>
       <isoZMoveLevel>2.54</isoZMoveLevel>
       <operationMode>IsolationCut</operationMode>
       <referencePinGCodeEnabled>true</referencePinGCodeEnabled>
       <referencePinPadDiameter>3.175</referencePinPadDiameter>
       <referencePinsGCodeFileOutputExtension>_REFPINS_GCODE.ngc</referencePinsGCodeFileOutputExtension>
       <referencePinsMaxNumber>6</referencePinsMaxNumber>
-      <referencePinsXYFeedRate>50</referencePinsXYFeedRate>
-      <referencePinsZClearLevel>6.35</referencePinsZClearLevel>
+      <referencePinsXYFeedRate>100</referencePinsXYFeedRate>
+      <referencePinsZClearLevel>3.35</referencePinsZClearLevel>
       <referencePinsZDrillDepth>-7.62000036</referencePinsZDrillDepth>
-      <referencePinsZFeedRate>50</referencePinsZFeedRate>
+      <referencePinsZFeedRate>100</referencePinsZFeedRate>
       <showGCodeLineNumbers>false</showGCodeLineNumbers>
       <warnAboutOverwriting>true</warnAboutOverwriting>
       <zEdgeMillMoveLevel>2.54</zEdgeMillMoveLevel>
