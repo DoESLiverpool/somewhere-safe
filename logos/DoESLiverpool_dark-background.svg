@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="DoESLiverpool.svg"
+   sodipodi:docname="DoESLiverpool_dark-background.svg"
    inkscape:export-filename="/home/adrian/Pictures/DoESLiverpool.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="359.91705"
-     inkscape:cy="659.62438"
+     inkscape:cy="712.36799"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,14 +55,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:1;stroke:none"
        id="rect2987"
        width="327"
        height="394"
        x="177.929"
        y="178.86218" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985"
        width="300"
        height="300"
@@ -82,7 +82,7 @@
          id="tspan3759">DoES</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
        x="185.71429"
        y="550.2193"
        id="text3763"
@@ -91,6 +91,6 @@
          id="tspan3765"
          x="185.71429"
          y="550.2193"
-         style="font-size:69px;fill:#ffffff;stroke:#000000">Liverpool</tspan></text>
+         style="font-size:69px;fill:#ffffff;stroke:none">Liverpool</tspan></text>
   </g>
 </svg>
