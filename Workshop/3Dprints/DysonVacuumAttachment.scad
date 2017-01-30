@@ -1,8 +1,8 @@
 // Hose attachment settings
-hose_inner_diameter = 32.5;
+hose_inner_diameter = 33;
 hose_outer_diameter = 37;
 hose_lip_diameter = 40;
-hose_insert_length = 5;
+hose_insert_length = 10;
 hose_lip_length = 10;
 hose_taper_length = 3;
 overlap = 0.5;
