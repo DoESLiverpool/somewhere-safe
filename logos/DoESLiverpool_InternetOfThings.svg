@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080.7086"
+   height="1080.7086"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="DoESLiverpool_InternetOfThings.svg"
+   inkscape:export-filename="/home/adrian/Pictures/DoESLiverpool.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4375"
+     inkscape:cx="413.4342"
+     inkscape:cy="731.76333"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4150"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="cm"
+     borderlayer="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,28.34776)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2996"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion2998"><rect
+           id="rect3000"
+           width="484.28571"
+           height="531.42859"
+           x="170"
+           y="176.6479" /></flowRegion><flowPara
+         id="flowPara3002" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="339.98648"
+       y="293.50504"
+       id="text3004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="339.98648"
+         y="293.50504"
+         id="tspan3008"
+         style="font-size:120px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Arial" /></text>
+    <g
+       id="g4150"
+       transform="matrix(1.0439489,0,0,1.0439489,82.995479,-24.682273)">
+      <text
+         xml:space="preserve"
+         style="font-size:191.58026122999999000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         x="114.88349"
+         y="366.09647"
+         id="text4203"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="432.74957"
+           y="366.09647"
+           style="font-size:191.58026122999999000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Raoul TRANSPORT Britannique;-inkscape-font-specification:Raoul TRANSPORT Britannique"
+           id="tspan4236">Do</tspan><tspan
+           sodipodi:role="line"
+           x="432.74957"
+           y="605.57178"
+           style="font-size:191.58026122999999000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Raoul TRANSPORT Britannique;-inkscape-font-specification:Raoul TRANSPORT Britannique"
+           id="tspan4232">Epic</tspan><tspan
+           sodipodi:role="line"
+           x="432.74957"
+           y="845.04712"
+           style="font-size:191.58026122999999000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Raoul TRANSPORT Britannique;-inkscape-font-specification:Raoul TRANSPORT Britannique"
+           id="tspan4226">Stuff</tspan></text>
+    </g>
+  </g>
+</svg>
