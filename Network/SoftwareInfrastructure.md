@@ -40,6 +40,24 @@ We use a collection of services and pieces of software - some off-the-shelf, oth
    * events/meetups happening at the space
  * YouCanBookMe to provide an easier booking system for members to book the laser-cutters, an induction, hot-desks, meetings in Dinky
 
+# Types of User
+
+Who interacts with DoES Liverpool, and in what sort of way?  These roles aren't always exclusive - i.e. one person could be a maintenance team member at one point, and a member booking a desk at another time...
+
+ * Member of the public.  Doesn't know anything (or much) about DoES Liverpool, is encountering us for the first time
+ * Event attendee
+ * Event organiser
+ * Casual user.  Hot-desks from time to time, or books the laser every now and then when they need it
+ * Regular user
+ * User with out-of-hours access
+ * Member
+ * Maintainer.  Someone who is fixing or performing routine maintenance on a piece of equipment or on the space in general
+ * Organiser.  Someone who answers the door and/or the phone, and potentially email discussions
+ * Maintenance team member
+ * Grievance team member
+ * Administrator
+ * Director
+
 # Improvements
 
 There's a slow project under way to consolidate/improve some of the systems.  Not everything must be integrated into a seamless all-singing-and-dancing app, in fact, the principle of small pieces, loosely joined is more appealing.  However, better joining of the systems to ease the administrative overhead would be good, so the first step is identifying what should be replaced and what new connecting code should be developed.
