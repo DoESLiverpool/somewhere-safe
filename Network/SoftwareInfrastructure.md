@@ -68,6 +68,8 @@ The following Somebody Should issues are related to this (and provide additional
  * [There should be a better way of adding people to the doorbots #166](https://github.com/DoESLiverpool/somebody-should/issues/166)
  * (this isn't intended to be an exhaustive list, just to provide some useful jumping off points for more info)
  
- # Use Cases
+# Use Cases
  
 In order to accurately track an average amount that we take from events run in DoES, I need a system which can scrape the calendar for those events, import them into the General Financials spreadsheet, and record the amount that was paid to DoES to host them. This would need to take into account events both in the past and the future, and automatically update the spreadsheet to discount events from outside a certain time period.
+
+In order to keep the space secure and allow people to stay late, a user with out-of-hours access must have paid the appropriate deposit and have done the opening-up/locking-up induction.
