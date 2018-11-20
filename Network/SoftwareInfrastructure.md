@@ -73,3 +73,5 @@ The following Somebody Should issues are related to this (and provide additional
 In order to accurately track an average amount that we take from events run in DoES, I need a system which can scrape the calendar for those events, import them into the General Financials spreadsheet, and record the amount that was paid to DoES to host them. This would need to take into account events both in the past and the future, and automatically update the spreadsheet to discount events from outside a certain time period.
 
 In order to keep the space secure and allow people to stay late, a user with out-of-hours access must have paid the appropriate deposit and have done the opening-up/locking-up induction.
+
+In order to simplify the payment procedure, we need to make it easier for users to let us know that they need to be invoiced, or to automatically invoice them and let them be able to tell us if the invoices are valid (they may have been in for an event/popped in to pick up mail, for example). This could be an 'Invoice Me!' button, or linked to doorbots.
