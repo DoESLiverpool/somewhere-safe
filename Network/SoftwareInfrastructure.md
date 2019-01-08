@@ -70,8 +70,35 @@ The following Somebody Should issues are related to this (and provide additional
  
 # Use Cases
  
-In order to accurately track an average amount that we take from events run in DoES, I need a system which can scrape the calendar for those events, import them into the General Financials spreadsheet, and record the amount that was paid to DoES to host them. This would need to take into account events both in the past and the future, and automatically update the spreadsheet to discount events from outside a certain time period.
+In rough order, from **must have** to **nice to have**...
 
-In order to keep the space secure and allow people to stay late, a user with out-of-hours access must have paid the appropriate deposit and have done the opening-up/locking-up induction.
+ * As an organiser, I want to be able to predict cashflow.
+ * As an organiser, I need to know how much money we make from event room rentals.
+ * As an organiser, I want a single source of truth for what membership level/access level a member has.
+ * As an organiser, I want to know which members have completed an induction.
+ * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
+ * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
+ * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
+ * As an organiser, I want to make sure people get invoiced for the services they use - automatically if possible!
+ * As a user, I want to be able to book a hotdesk.
+ * As a user, I want to be able to book a room for a meeting or event.
+ * As a user, I want to be able to book a laser-induction.
+ * As a user, I want to be able to book time on the CNC and laser machines.
+ * As a member of the public, I want to see which events are on at DoES.
+ * As a potential hotdesker, I want to be able to book a hotdesk without having to set up an account/password.
+ * As a user, I want to see an itemised breakdown on my invoices so that I can check it always is correct.
+ * As a hotdesker, I want to know how many days I have left in this month's allocation.
+ * As an organiser, I want people to be able to book rooms by the hour but machines by the half-day.
+ * As a user, I want clearer signposting/navigation between the various DoES systems and processes.
+ * As an organiser, I want doorbot access control to be managed more automatically so it matches members' payments/status.
+ * As a member *while in the space*, I want to know the names and access privileges of the other people currently in the space.
+ * As an organiser, I want to be able to track usage of paid-for materials/consumables.
+ * As a user, I want a single site to manage all my interactions with DoES.
+ * As someone helping with a DoES project or event, I want to know how much money (expenses) have been spent on the project/event so I can manage my budget.
+ * As a user, I want it to be very easy to report issues with the space/equipment.
+ * As a 1st time/potential user, I want to get a better sense of what DoES is about, so I can decide whether to visit the space.
+ * As a user, I want to need as few user accounts as possible to interact with doES processes.
+ * As an organiser, I want a way to manage enquiries from social media users.
+ * As an organiser, I want a system to manage email enquiries to hello@doesliverpoool.com as part of a team.
 
-In order to simplify the payment procedure, we need to make it easier for users to let us know that they need to be invoiced, or to automatically invoice them and let them be able to tell us if the invoices are valid (they may have been in for an event/popped in to pick up mail, for example). This could be an 'Invoice Me!' button, or linked to doorbots.
+
