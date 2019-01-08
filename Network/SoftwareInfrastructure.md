@@ -66,6 +66,7 @@ The following Somebody Should issues are related to this (and provide additional
  * [We need a system for managing hot desk use #45](https://github.com/DoESLiverpool/somebody-should/issues/45)
  * [User Management #175](https://github.com/DoESLiverpool/somebody-should/issues/175)
  * [There should be a better way of adding people to the doorbots #166](https://github.com/DoESLiverpool/somebody-should/issues/166)
+ * [Review and improve our administrative software usage #670](https://github.com/DoESLiverpool/somebody-should/issues/670)
  * (this isn't intended to be an exhaustive list, just to provide some useful jumping off points for more info)
  
 # Use Cases
