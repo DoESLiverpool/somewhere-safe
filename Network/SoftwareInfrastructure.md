@@ -98,6 +98,7 @@ In rough order, from **must have** to **nice to have**...
  * As someone helping with a DoES project or event, I want to know how much money (expenses) have been spent on the project/event so I can manage my budget.
  * As a user, I want it to be very easy to report issues with the space/equipment.
  * As a 1st time/potential user, I want to get a better sense of what DoES is about, so I can decide whether to visit the space.
+ * As a member, I want to be able to see the counts of desk, workshop, hot-desk usage over time so that I can look for trends in membership when doing longer-term planning
  * As a user, I want to need as few user accounts as possible to interact with doES processes.
  * As an organiser, I want a way to manage enquiries from social media users.
  * As an organiser, I want a system to manage email enquiries to hello@doesliverpoool.com as part of a team.
