@@ -74,11 +74,18 @@ The following Somebody Should issues are related to this (and provide additional
 In rough order, from **must have** to **nice to have**...
 
  * As an organiser, I want to be able to predict cashflow.
+     * FabManager provides statistics, possibly not this exactly but there's a way to do it.
  * As an organiser, I need to know how much money we make from event room rentals.
+     * FabManager -> Statistics -> Events
  * As an organiser, I want a single source of truth for what membership level/access level a member has.
+     * FabManager -> Users -> Find user
  * As an organiser, I want to know which members have completed an induction.
+     * FabManager -> Users -> Edit user -> Trainings
+     * FabManager -> Statistics -> Trainings
  * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
+     * FabManager -> Users -> Edit user -> Trainings
  * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
+     * I wondered if this could be done as a subscription, but it seems you can only have one subscription at a time.
  * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
  * As an organiser, I want to make sure people get invoiced for the services they use - automatically if possible!
  * As a user, I want to be able to book a hotdesk.
