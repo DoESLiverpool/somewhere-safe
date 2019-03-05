@@ -87,27 +87,50 @@ In rough order, from **must have** to **nice to have**...
  * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
      * I wondered if this could be done as a subscription, but it seems you can only have one subscription at a time.
  * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
+     * Could it go in as a Training
  * As an organiser, I want to make sure people get invoiced for the services they use - automatically if possible!
+     * Subscriptions seem to cover this but you can only have one and I'm not sure if the payment will recur automatically.
  * As a user, I want to be able to book a hotdesk.
+     * Can create a recurring daily event that people can book for, essentially covers this although isn't the nicest interface.
  * As a user, I want to be able to book a room for a meeting or event.
+     * If I create a room as a "Machine" then this works (and the hour slots work ok here). Can't recur slots, would need a script.
  * As a user, I want to be able to book a laser-induction.
+     * Yes, can do this. Can't recur the training slots though, would need a script to do this.
  * As a user, I want to be able to book time on the CNC and laser machines.
+     * Yes, can do this. Can't recur slots, would need a script.
  * As a member of the public, I want to see which events are on at DoES.
+     * Yes, the calendar is a bit busy with all the hot desk events showing up
  * As a potential hotdesker, I want to be able to book a hotdesk without having to set up an account/password.
+     * Not possible, would need something extra
  * As a user, I want to see an itemised breakdown on my invoices so that I can check it always is correct.
+     * Invoices do appear to show a full breakdown
  * As a hotdesker, I want to know how many days I have left in this month's allocation.
+     * Doesn't appear to be a function they offer
  * As an organiser, I want people to be able to book rooms by the hour but machines by the half-day.
+     * Doesn't appear to be possible by default, can't find a way to change the size of the slots. When booking you can book multiple slots at once though.
  * As a user, I want clearer signposting/navigation between the various DoES systems and processes.
+     * No
  * As an organiser, I want doorbot access control to be managed more automatically so it matches members' payments/status.
+     * It seems like we could do this, possibly using labels too.
  * As a member *while in the space*, I want to know the names and access privileges of the other people currently in the space.
+     * It seems like we could do this as a report
  * As an organiser, I want to be able to track usage of paid-for materials/consumables.
+     * Not seeing anything for this
  * As a user, I want a single site to manage all my interactions with DoES.
+     * That's the aim, not sure it covers everything yet
  * As someone helping with a DoES project or event, I want to know how much money (expenses) have been spent on the project/event so I can manage my budget.
+     * No
  * As a user, I want it to be very easy to report issues with the space/equipment.
+     * Not through fab manager
  * As a 1st time/potential user, I want to get a better sense of what DoES is about, so I can decide whether to visit the space.
- * As a member, I want to be able to see the counts of desk, workshop, hot-desk usage over time so that I can look for trends in membership when doing longer-term planning
+     * Not really, although it does have projects
+ * As an organiser, I want to be able to see the counts of desk, workshop, hot-desk usage over time so that I can look for trends in membership when doing longer-term planning
+     * There are some statistics
  * As a user, I want to need as few user accounts as possible to interact with doES processes.
+     * This could help
  * As an organiser, I want a way to manage enquiries from social media users.
+     * Not really
  * As an organiser, I want a system to manage email enquiries to hello@doesliverpoool.com as part of a team.
-
-
+     * Not really
+ * As a user, I want to be able to pre-book to hot desk or use a machine and pay by cash when I arrive
+     * Doesn't appear to be an option
