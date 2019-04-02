@@ -85,19 +85,19 @@ In rough order, from **must have** to **nice to have**...
  * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
      * FabManager -> Users -> Edit user -> Trainings
  * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
-     * I wondered if this could be done as a subscription, but it seems you can only have one subscription at a time.
+     * FabManager -I wondered if this could be done as a subscription, but it seems you can only have one subscription at a time.
  * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
-     * Could it go in as a Training
+     * FabManager - ould it go in as a Training
  * As an organiser, I want to make sure people get invoiced for the services they use - automatically if possible!
-     * Subscriptions seem to cover this but you can only have one and I'm not sure if the payment will recur automatically.
+     * FabManager - Subscriptions seem to cover this but you can only have one and I'm not sure if the payment will recur automatically.
  * As a user, I want to be able to book a hotdesk.
-     * Can create a recurring daily event that people can book for, essentially covers this although isn't the nicest interface.
+     * FabManager - Can create a recurring daily event that people can book for, essentially covers this although isn't the nicest interface.
  * As a user, I want to be able to book a room for a meeting or event.
-     * If I create a room as a "Machine" then this works (and the hour slots work ok here). Can't recur slots, would need a script.
+     * FabManager - If I create a room as a "Machine" then this works (and the hour slots work ok here). Can't recur slots, would need a script.
  * As a user, I want to be able to book a laser-induction.
-     * Yes, can do this. Can't recur the training slots though, would need a script to do this.
+     * FabManager - Yes, can do this. Can't recur the training slots though, would need a script to do this.
  * As a user, I want to be able to book time on the CNC and laser machines.
-     * Yes, can do this. Can't recur slots, would need a script.
+     * FabManager - Yes, can do this. Can't recur slots, would need a script.
  * As a member of the public, I want to see which events are on at DoES.
      * Yes, the calendar is a bit busy with all the hot desk events showing up
  * As a potential hotdesker, I want to be able to book a hotdesk without having to set up an account/password.
