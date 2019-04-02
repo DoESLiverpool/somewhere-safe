@@ -134,3 +134,56 @@ In rough order, from **must have** to **nice to have**...
      * FabManager - Not really
  * As a user, I want to be able to pre-book to hot desk or use a machine and pay by cash when I arrive
      * FabManager - Doesn't appear to be an option
+
+Those use cases again, this time loosely grouped:
+
+
+## Identity Service
+ * As an organiser, I want a single source of truth for what membership level/access level a member has.
+ * As an organiser, I want to know which members have completed an induction.
+ * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
+ * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
+ * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
+ * As an organiser, I want doorbot access control to be managed more automatically so it matches members' payments/status.
+ * As a member *while in the space*, I want to know the names and access privileges of the other people currently in the space.
+ * As a user, I want to need as few user accounts as possible to interact with doES processes.
+
+## General Billing
+ * As an organiser, I want to make sure people get invoiced for the services they use - automatically if possible!
+ * As a user, I want to see an itemised breakdown on my invoices so that I can check it always is correct.
+ * As a hotdesker, I want to know how many days I have left in this month's allocation.
+
+ * As an organiser, I want to be able to track usage of paid-for materials/consumables.
+
+## Financial Reporting
+ * As an organiser, I want to be able to predict cashflow.
+ * As someone helping with a DoES project or event, I want to know how much money (expenses) have been spent on the project/event so I can manage my budget.
+ * As an organiser, I need to know how much money we make from event room rentals.
+ * As an organiser, I want to be able to see the counts of desk, workshop, hot-desk usage over time so that I can look for trends in membership when doing longer-term planning
+
+## Resource booking
+ * As a user, I want to be able to book a hotdesk.
+ * As a user, I want to be able to book a room for a meeting or event.
+ * As a user, I want to be able to book a laser-induction.
+ * As a user, I want to be able to book time on the CNC and laser machines.
+ * As an organiser, I want people to be able to book rooms by the hour but machines by the half-day.
+ * As a potential hotdesker, I want to be able to book a hotdesk without having to set up an account/password.
+ * As a user, I want to be able to pre-book to hot desk or use a machine and pay by cash when I arrive
+
+## Public facing website
+ * As a 1st time/potential user, I want to get a better sense of what DoES is about, so I can decide whether to visit the space.
+
+## Public calendar(s)
+ * As a member of the public, I want to see which events are on at DoES.
+
+## Moon on a stick
+ * As a user, I want clearer signposting/navigation between the various DoES systems and processes.
+ * As a user, I want a single site to manage all my interactions with DoES.
+
+## Self contained features
+ * As a user, I want it to be very easy to report issues with the space/equipment.
+ 
+## CRM
+ * As an organiser, I want a way to manage enquiries from social media users.
+ * As an organiser, I want a system to manage email enquiries to hello@doesliverpoool.com as part of a team.
+ 
