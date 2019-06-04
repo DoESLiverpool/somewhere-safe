@@ -140,7 +140,7 @@ In rough order, from **must have** to **nice to have**...
 Those use cases again, this time loosely grouped:
 
 
-## Identity Service
+## Identity Service
  * As an organiser, I want a single source of truth for what membership level/access level a member has.
  * As an organiser, I want to know which members have completed an induction.
  * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
