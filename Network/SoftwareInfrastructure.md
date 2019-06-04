@@ -75,8 +75,10 @@ In rough order, from **must have** to **nice to have**...
 
  * As an organiser, I want to be able to predict cashflow.
      * FabManager provides statistics, possibly not this exactly but there's a way to do it.
+     * Odoo (seems to be able to effectively replace FreeAgent (if we wanted to)).  The Invoicing app lets you run reports and download data from it
  * As an organiser, I need to know how much money we make from event room rentals.
      * FabManager -> Statistics -> Events
+     * Odoo.  Define a product category for all event hire invoices, and then filter by that in Apps -> Invoicing -> Reporting.
  * As an organiser, I want a single source of truth for what membership level/access level a member has.
      * FabManager -> Users -> Find user
  * As an organiser, I want to know which members have completed an induction.
