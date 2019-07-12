@@ -3,18 +3,20 @@
 [Image Source](https://www.flickr.com/photos/amcewen/16110088224/ "Link to Flickr Image")
 ## Copy For Hannah Directory:
 
-### What is DoESLiverpool?
-* A community of people and CIC with diverse skills and interests. Any profit helps the community.
-* A co-working space in the heart of Liverpool with desks available to rent. 
-* We host and organise events.
-* A workshop with 3Dprinters & lasercutters.
-* A place where you do your best work, to support the growth of the region in a meaningful way – by doing.
-* A friendly environment fostering collaboration.
-* Get involved!
-* http://doesliverpool.com/get-involved/
+### Your names:
+Adrian, Ross, Jackie, John, Helen, Zarino, Caroline, Chris, Snoof, Sean... you?
 
-### What Are We Doing For the Hannah Directory Launch?
-Celebration at MakerNight Wednesday 10th June 2015 6pm. Learn from and meet the DoESLiverpool community!
+### What is DoESLiverpool?
+DoES Liverpool is an enthusiastic community of makers, designers, coders, engineers, and many others. We run a co-working and makerspace in the heart of Liverpool, with desks rentable monthly or daily, alongside a workshop equipped with electronics and fabrication equipment and community-run events.
+
+Providing a home for startups, businesses and makers in Liverpool; a friendly environment where you do your best work. We foster collaboration and want to support the growth of the region by doing rather than talking.
+
+### How will you share physical copies of the directory?
+With visitors to the space, on our stand at Liverpool Makefest
+
+### Urls of online accounts (where you'll do promotion)
+https://twitter.com/doesliverpool, https://www.instagram.com/doesliverpool/, https://www.facebook.com/DoESLiverpool/, https://www.linkedin.com/company/does-liverpool-cic/
+
 ### Where Are We?
-DoESLiverpool Gostins Building, 4th Floor. 32-36 Hanover Street. Liverpool L1 4LN. http://doesliverpool.com hello@doesliverpool.com
+DoESLiverpool The Tapestry, 68-76 Kempston Street. Liverpool L3 8HL. http://doesliverpool.com hello@doesliverpool.com
 [@DoESLiverpool](http://twitter.com/DoESLiverpool)
