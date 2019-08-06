@@ -81,11 +81,14 @@ In rough order, from **must have** to **nice to have**...
      * Odoo.  Define a product category for all event hire invoices, and then filter by that in Apps -> Invoicing -> Reporting.
  * As an organiser, I want a single source of truth for what membership level/access level a member has.
      * FabManager -> Users -> Find user
+     * Odoo 8 (with vertical-association).  Association -> Members -> <Pick User> -> Membership
  * As an organiser, I want to know which members have completed an induction.
      * FabManager -> Users -> Edit user -> Trainings
      * FabManager -> Statistics -> Trainings
+     * Odoo 8.  Association -> Gamification Tools -> Badges.  Can set which users can grant badges
  * As an organiser, I want to make sure that out of hours members have completed the opening/closing induction.
      * FabManager -> Users -> Edit user -> Trainings
+     * Odoo 8.  Association -> Gamification Tools -> Badges.  Can set which users can grant badges
  * As an organiser, I want to track who has a free 'cake day' so that people can't have multiple free days!
      * FabManager -I wondered if this could be done as a subscription, but it seems you can only have one subscription at a time.
  * As an organiser, I want to make sure that out-of-hours members have paid a deposit.
