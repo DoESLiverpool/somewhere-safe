@@ -2,7 +2,7 @@
 
 - John & Laura
            @
-- Crafts to Cherish
+Crafts to Cherish
 If this email stays correct then in that format too 
 I.e. all lettering centralised.
 
