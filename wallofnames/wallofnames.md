@@ -1,57 +1,58 @@
-- "Code. For All. www.hipy.uk, @hipyliv" + logo hipy_logo.png
+- [ ] "Code. For All. www.hipy.uk, @hipyliv" + logo hipy_logo.png
 
-- John & Laura
+- [ ] John & Laura
            @
 Crafts to Cherish
 If this email stays correct then in that format too 
 I.e. all lettering centralised.
 
-- Drfraz.svg
+- [ ] Drfraz.svg
 
-- "Concreted0g forged in the heart of a mountain"
+- [ ] "Concreted0g forged in the heart of a mountain"
 
-- "Liverpool: Adrian'ın dediği kadar da değil"
+- [ ] "Liverpool: Adrian'ın dediği kadar da değil"
 As instructed, sending you my inscription for the brick, although it is a- 42 characters b- is in Turkish, so the font would have to be compatible. I hope it would be alright? Attached a screenshot, too, in case your browser mangles it.
 
-- Final Logo Large Colour 2018.svg
+- [ ] Final Logo Large Colour 2018.svg
 
-- Rob Nightingale & Michelle Hunt
+- [ ] Rob Nightingale & Michelle Hunt
 
-- Helen Stephens 
+- [ ] Helen Stephens 
 Loves to DoES
 
-- Hannah and Peter Radford 
+- [ ] Hannah and Peter Radford 
 
-- Pez Cuckow
+- [ ] Pez Cuckow
 Peg Productions Ltd
 
- - Zarino Zappia ❤️ DoES
+ - [ ] Zarino Zappia ❤️ DoES
  zarino.co.uk
  
- -  ArthurRowland.com does design. Go DoES!
+ -  [ ] ArthurRowland.com does design. Go DoES!
  arthur logo.svg
  
- - Community is the real foundation. LauraJ
+ - [ ] Community is the real foundation. LauraJ
  
- - ‘Don’t forget the back door’
+ - [ ] ‘Don’t forget the back door’
  
- - George McNamara
+ - [ ] George McNamara
  
- - Ceci n'est pas une brick
+ - [ ] Ceci n'est pas une brick
  
- - Rediscover the joy outside the window
+ - [ ] Rediscover the joy outside the window
  
- - 'The nail that sticks out gets hammered down'
+ - [ ] 'The nail that sticks out gets hammered down'
  
- - Keep Making! With love, @anabrdly
+ - [ ] Keep Making! With love, @anabrdly
  
- -  Keep Doing Epic Stuff! - Dan Lynch
+ - [ ] Keep Doing Epic Stuff! - Dan Lynch
  
- - "Enjoy it while you can. Kindness = Magic"
+ - [ ] "Enjoy it while you can. Kindness = Magic"
  
- - Safe Streets for All
+ - [ ] Safe Streets for All
 
- - "I love my brick" 
+ - [ ] "I love my brick
+       Snoof" 
  
  
  
