@@ -8,7 +8,7 @@ I.e. all lettering centralised.
 
 - [ ] Drfraz.svg
 
-- [ ] "Concreted0g forged in the heart of a mountain"
+- [X] "Concreted0g forged in the heart of a mountain"
 
 - [ ] "Liverpool: Adrian'ın dediği kadar da değil"
 As instructed, sending you my inscription for the brick, although it is a- 42 characters b- is in Turkish, so the font would have to be compatible. I hope it would be alright? Attached a screenshot, too, in case your browser mangles it.
