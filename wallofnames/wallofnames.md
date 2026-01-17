@@ -43,7 +43,7 @@ Peg Productions Ltd
  
  - [ ] 'The nail that sticks out gets hammered down'
  
- - [ ] Keep Making! With love, @anabrdly
+ - [X] Keep Making! With love, @anabrdly
  
  - [ ] Keep Doing Epic Stuff! - Dan Lynch
  
