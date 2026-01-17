@@ -45,7 +45,7 @@ Peg Productions Ltd
  
  - [X] Keep Making! With love, @anabrdly
  
- - [ ] Keep Doing Epic Stuff! - Dan Lynch
+ - [x] Keep Doing Epic Stuff! - Dan Lynch
  
  - [ ] "Enjoy it while you can. Kindness = Magic"
  
