@@ -1,6 +1,6 @@
 - [ ] "Code. For All. www.hipy.uk, @hipyliv" + logo hipy_logo.png
 
-- [ ] John & Laura
+- [x] John & Laura
            @
 Crafts to Cherish
 If this email stays correct then in that format too 
@@ -28,7 +28,7 @@ Peg Productions Ltd
  - [x] Zarino Zappia ❤️ DoES
  zarino.co.uk
  
- -  [ ] ArthurRowland.com does design. Go DoES!
+ -  [x] ArthurRowland.com does design. Go DoES!
  arthur logo.svg
  
  - [ ] Community is the real foundation. LauraJ
