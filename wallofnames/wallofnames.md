@@ -6,7 +6,7 @@ Crafts to Cherish
 If this email stays correct then in that format too 
 I.e. all lettering centralised.
 
-- [ ] Drfraz.svg
+- [X] Drfraz.svg
 
 - [X] "Concreted0g forged in the heart of a mountain"
 
