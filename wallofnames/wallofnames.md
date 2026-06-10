@@ -1,3 +1,6 @@
+The detail got lost in the discussions but all the text should be in the standard DoES font Transport, scaled to fit.
+
+
 - [ ] "Code. For All. www.hipy.uk, @hipyliv" + logo hipy_logo.png
 
 - [x] John & Laura
