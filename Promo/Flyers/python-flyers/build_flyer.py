@@ -25,7 +25,7 @@ NOLOGO = "--nologo" in sys.argv
 # ---------- palette ----------
 BLACK = (17, 17, 17)
 YELLOW = (255, 209, 0)
-PAPER = (250, 248, 243)
+PAPER = (255, 255, 255)
 STRIP = (237, 234, 226)
 GRAY = (90, 90, 90)
 WHITE = (255, 255, 255)
@@ -38,19 +38,24 @@ def font(kind, size, weight=None):
     if key in _font_cache:
         return _font_cache[key]
     if kind == "anton":
-        f = ImageFont.truetype(os.path.join(FONTS, "Anton-Regular.ttf"), size)
+        #f = ImageFont.truetype(os.path.join(FONTS, "Anton-Regular.ttf"), size)
+        f = ImageFont.truetype(("/home/adrian/.local/share/fonts/TransportNew-Medium.ttf"), size)
     elif kind == "raoul":
-        f = ImageFont.truetype(os.path.join(FONTS, "RaoulTRANSPORTBritannique.ttf"), size)
+        #f = ImageFont.truetype(os.path.join(FONTS, "RaoulTRANSPORTBritannique.ttf"), size)
+        f = ImageFont.truetype(("/home/adrian/.local/share/fonts/TransportNew-Heavy.ttf"), size)
     elif kind == "bebas":
-        f = ImageFont.truetype(os.path.join(FONTS, "BebasNeue-Regular.ttf"), size)
+        #f = ImageFont.truetype(os.path.join(FONTS, "BebasNeue-Regular.ttf"), size)
+        f = ImageFont.truetype(("/home/adrian/.local/share/fonts/TransportNew-Medium.ttf"), size)
     elif kind == "archivo":
-        f = ImageFont.truetype(os.path.join(FONTS, "Archivo"), size)
+        #f = ImageFont.truetype(os.path.join(FONTS, "Archivo"), size)
+        f = ImageFont.truetype(("/home/adrian/.local/share/fonts/TransportNew-Medium.ttf"), size)
         try:
             f.set_variation_by_axes([weight if weight else 400, 100])
         except Exception:
             pass
     elif kind == "mono":
-        f = ImageFont.truetype(os.path.join(FONTS, "JetBrainsMono.ttf"), size)
+        #f = ImageFont.truetype(os.path.join(FONTS, "JetBrainsMono.ttf"), size)
+        f = ImageFont.truetype(("/home/adrian/.local/share/fonts/TransportNew-Medium.ttf"), size)
         try:
             f.set_variation_by_axes([weight if weight else 400])
         except Exception:
@@ -126,13 +131,13 @@ SUB_H = (len(SUB_LINES) * 44) if NOLOGO else 0
 
 HERO_H = 1080 - SUB_H
 WY = BLEED + HERO_H                       # white section top
-TILE_Y = WY + 300
+TILE_Y = WY + 280
 TILE_H = 292
 TILE_GAP = 18
 STRIP_Y = TILE_Y + TILE_H + 14
 STRIP_H = 68
-BY = STRIP_Y + STRIP_H                    # black strip top
-BLACK_H = 276
+BY = STRIP_Y + STRIP_H + 20                    # black strip top
+BLACK_H = 236
 BAND_Y = BY + BLACK_H                     # yellow price band
 BAND_H = 96
 FY = BAND_Y + BAND_H                      # footer top
@@ -174,18 +179,18 @@ def build_original():
     px = lambda v: v + BLEED
 
     # top-left brand chip + wordmark
-    chip_s = 104
+    chip_s = 220
     chip = Image.new("RGBA", (chip_s, chip_s), YELLOW)
     bird = Image.open(os.path.join(ASSETS, "doesloverpoollogo.png")).convert("RGBA")
-    bs = int(chip_s * 0.86)
+    bs = chip_s #int(chip_s * 0.86)
     bird = bird.resize((bs, bs), Image.LANCZOS)
     chip.paste(bird, ((chip_s - bs) // 2, (chip_s - bs) // 2), bird)
-    paste(img, chip, px(M), px(58))
-    d.text((px(M) + chip_s + 28, px(64)), "DOES LIVERPOOL", font=font("anton", 56), fill=WHITE)
-    d.text((px(M) + chip_s + 30, px(64) + 66), "COMMUNITY MAKER SPACE & CO-WORKING", font=mono(22, 500), fill=YELLOW)
+    paste(img, bird, px(M), px(58))
+    d.text((px(M) + chip_s + 28, px(64)), "DoES LIVERPOOL", font=font("raoul", 72), fill=WHITE)
+    d.text((px(M) + chip_s + 30, px(64) + 76), "COMMUNITY MAKER SPACE & CO-WORKING", font=mono(32, 500), fill=YELLOW)
 
     # headline: COME AND DO / EPIC STUFF.
-    hl = font("anton", 150)
+    hl = font("raoul", 150)
     y1 = 585                      # line 1 (canvas)
     y2 = y1 + 166                 # line 2
     d.text((px(M), y1), "COME AND DO", font=hl, fill=WHITE)
@@ -206,15 +211,15 @@ def build_original():
         assert_fits("hero headline", y2 + 166, HERO_H)
 
     # ================= WORKSHOP SECTION =================
-    d.text((px(M), WY + 52), "THE WORKSHOP", font=font("bebas", 78), fill=BLACK)
-    d.rectangle([px(M), WY + 128, px(M) + 210, WY + 140], fill=YELLOW)
+    d.text((px(M), WY + 32), "THE WORKSHOP", font=font("bebas", 78), fill=BLACK)
+    d.rectangle([px(M), WY + 108, px(M) + 210, WY + 120], fill=YELLOW)
 
-    para = ("A proper workshop in the middle of town \u2014 laser cutters, 3D printers, a CNC mill and router, "
+    para = ("A maker space in the middle of town \u2014 laser cutters, 3D printers, a CNC mill and router, "
             "a stocked electronics bench, embroidery & sewing machines, vinyl cutting and more. "
             "No membership needed to use it.")
     p_f = arch(31, 400)
     p_lines = wrap(d, para, p_f, PAGE_W - 2 * M)
-    py = WY + 166
+    py = WY + 146
     for ln in p_lines:
         d.text((px(M), py), ln, font=p_f, fill=(40, 40, 40))
         py += 43
@@ -222,10 +227,10 @@ def build_original():
 
     # equipment tiles
     tiles = [
-        ("LaserCutterWorkshop.jpg",   "01 \u00b7 LASER CUTTERS"),
-        ("3DPrinters.jpg",            "02 \u00b7 3D PRINTERS"),
-        ("ElectronicsWorkbench.jpg",  "03 \u00b7 ELECTRONICS BENCH"),
-        ("CNCRouter.jpg",             "04 \u00b7 CNC MILL & ROUTER"),
+        ("LaserCutterWorkshop.jpg",   "LASER CUTTERS"),
+        ("3DPrinters.jpg",            "3D PRINTERS"),
+        ("ElectronicsWorkbench.jpg",  "ELECTRONICS BENCH"),
+        ("CNCRouter.jpg",             "CNC MILL & ROUTER"),
     ]
     tw = (PAGE_W - 2 * M - 3 * TILE_GAP) // 4
     lf = mono(21, 700)
@@ -246,29 +251,29 @@ def build_original():
 
     # ================= BLACK STRIP =================
     d.rectangle([0, BY, W, BY + BLACK_H], fill=BLACK)
-    d.text((px(M), BY + 42), "MAKE \u00b7 WORK \u00b7 MEET", font=font("bebas", 62), fill=YELLOW)
+    #d.text((px(M), BY + 42), "MAKE \u00b7 WORK \u00b7 MEET", font=font("bebas", 62), fill=YELLOW)
 
     if not NOLOGO:
         logo_w = Image.open(os.path.join(ASSETS, "logo_white.png"))
         lw_px = 180
         lh_px = int(180 * logo_w.size[1] / logo_w.size[0])
         logo_w = logo_w.resize((lw_px, lh_px), Image.LANCZOS)
-        paste(img, logo_w, px(PAGE_W - M - lw_px), BY + 26)
+        #paste(img, logo_w, px(PAGE_W - M - lw_px), BY + 26)
 
     cols = [
         ("MAKE", "Workshop kit for everyone \u2014 no membership needed to start making."),
-        ("WORK", "Desks by the day, week or month \u2014 hotdesk, flexi or permanent."),
+        ("WORK", "Desks by the day or by the month \u2014 hotdesk, flexi or permanent."),
         ("MEET", "Free Maker Night \u2014 Thursdays 7\u20139:30pm, 2nd Saturday of each month."),
     ]
     col_gap = 40
     col_w = (PAGE_W - 2 * M - 2 * col_gap) // 3
-    cy = BY + 126
+    cy = BY + 56
     for i, (head, body) in enumerate(cols):
         cx = px(M) + i * (col_w + col_gap)
         d.rectangle([cx, cy, cx + 34, cy + 8], fill=YELLOW)
         d.text((cx, cy + 20), head, font=font("bebas", 52), fill=WHITE)
         bf = arch(24, 400)
-        blines = wrap(d, body, bf, col_w - 20)
+        blines = wrap(d, body, bf, col_w)
         byy = cy + 80
         for ln in blines:
             d.text((cx, byy), ln, font=bf, fill=(228, 228, 228))
@@ -278,7 +283,7 @@ def build_original():
     # ================= PRICE BAND =================
     d.rectangle([0, BAND_Y, W, BAND_Y + BAND_H], fill=YELLOW)
     price = ("MEMBERSHIP \u00a310/MONTH   \u00b7   DESK \u00a3210/MONTH   \u00b7   WORKSHOP \u00a372/MONTH   "
-             "\u00b7   DAY PASS \u00a315 \u00b7 HALF \u00a37.50")
+             "\u00b7   DAY PASS \u00a315   \u00b7   HALF-DAY \u00a37.50")
     prf = mono(24, 700)
     prw = spaced_w(d, price, prf, 1)
     assert prw <= PAGE_W - 2 * M, f"price text too wide: {prw}"
@@ -287,13 +292,13 @@ def build_original():
     # ================= FOOTER =================
     qr = Image.open(os.path.join(ASSETS, "qr.png")).convert("RGBA")
     qsize = qr.size[0]
-    paste(img, qr, px(M), FY + 20)
+    paste(img, qr, px(M), FY)
 
     d.text((px(M) + qsize + 44, FY + 40), "SCAN FOR PRICES,", font=mono(22, 500), fill=GRAY)
     d.text((px(M) + qsize + 44, FY + 74), "EVENTS & MORE", font=mono(22, 500), fill=GRAY)
     d.text((px(M) + qsize + 44, FY + 122), "doesliverpool.com", font=font("anton", 58), fill=BLACK)
 
-    cx0 = px(M) + qsize + 44 + 470
+    cx0 = px(M) + qsize + 44 + 620
     d.rectangle([cx0, FY + 40, cx0 + 34, FY + 48], fill=YELLOW)
     d.text((cx0, FY + 62), "FIND US", font=font("bebas", 46), fill=BLACK)
     cf = arch(27, 400)
@@ -511,7 +516,7 @@ def build_nologo():
                 price, prf, tracking=1, fill=BLACK)
 
     # ================= FOOTER (group vertically centred above fine print) =================
-    qr = Image.open(os.path.join(ASSETS, "qr.png")).convert("RGBA")
+    qr = Image.open(os.path.join(ASSETS, "qr-code.gif")).convert("RGBA")
     qsize = qr.size[0]
     rule_y = FY + FOOTER_H - 64
     avail = rule_y - FY
